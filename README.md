@@ -1,3 +1,4 @@
+Web-site using Angular, Express, Node and SQL
 The warehousing company you worked with on the JOINs challenge wants you back. They are hiring new people who don't know how to use SQL, so they want a website that makes it simple to view some information in their database using Angular, Express, Node, and SQL.
 
 In case you lost the tables from before, they have sent you the Entity Relationship Diagram (ERD) and the queries to create the tables (also available in `database-creation.sql`):
